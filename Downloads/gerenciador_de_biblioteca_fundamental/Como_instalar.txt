@@ -1,0 +1,9 @@
+1- Descompacte o arquivo .zip na pasta wp-content/plugins/ 
+2- Na área administrativa do Wordpress, vá até Plugins > 
+3- Procure pelo plugin: Gerenciador de Biblioteca, clique em "Ativar".
+
+Após ativar, o plugin irá criar o menu "Livros", onde os mesmos deverão ser cadastrados. O processo é o mesmo usado na criação de posts ou páginas.
+
+Para gerenciar as entradas, o valor da multa, etc. Basta ir no menu "Gerenciar biblioteca"
+
+Obs.: É imprecindível que seja configurado o valor da multa, e o tempo que o livro ficará reservado para uma pessoa. Caso essas informações não sejam informadas, o sistema nunca irá calcular a multa necessária nem quando a multa começa a ser aplicada.
